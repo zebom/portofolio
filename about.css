@@ -1,0 +1,36 @@
+body{
+    background-color: darkslategray
+}
+.t2{
+    float: right;
+}
+nav a{
+    margin-right: 20px;
+    color: white;
+    text-decoration: none ;
+    line-height: 50px;
+    font-weight: bold;
+    float: left;
+    padding-top: 20px;
+}
+a:hover{
+    color: green;
+}
+a:active{
+    color:red;
+}
+img{
+    width: 500px;
+}
+.t1{
+    display: flex;
+    
+   
+}
+.container{
+    border: 2px   darkslategray ;
+    background-color:  darkslategray;
+    padding-left: 150px
+    
+};
+   

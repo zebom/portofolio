@@ -1,0 +1,47 @@
+body{
+    background-color: darkslategray
+}
+.t1{
+    display: flex;
+    margin-left: 100px;
+    
+}
+.t2{
+    float: right;
+
+}
+.t3{
+    background-color: rgb(204, 113, 113);
+    width: 500px;
+    text-align: center;
+   
+}
+.t4{
+    background-color: rgb(63, 117, 117);
+    text-align: center; 
+    width: 500px;
+}
+button{
+    border: 0;
+     background-color: rgb(226, 13, 59);
+    color: #fff;
+    width: 100px;
+    font-family: inherit;
+    padding: 16px 26px;
+    border-radius: 40px;
+}
+nav a{
+    margin-right: 20px;
+    color: white;
+    text-decoration: none ;
+    line-height: 50px;
+    font-weight: bold;
+    float: left;
+    padding-top: 20px;
+}
+a:hover{
+    color: green;
+}
+a:active{
+    color:red;
+}
